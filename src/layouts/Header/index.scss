@@ -1,0 +1,21 @@
+.container {
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .title {
+      position: absolute;
+      left: 45%;
+      top: 2%;
+    }
+    .network {
+      display: flex;
+      .connect-wallet {
+        cursor: pointer;
+      }
+      span {
+        margin-left: 1rem;
+      }
+    }
+  }
+}
