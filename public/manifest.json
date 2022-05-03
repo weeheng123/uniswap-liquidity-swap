@@ -1,6 +1,8 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Uniswap Liquidity Swap Clone",
+  "description": "Clone of Uniswap Liquidity Swap",
+  "iconPath": "logo512.png",
   "icons": [
     {
       "src": "favicon.ico",
